@@ -14,8 +14,14 @@ body{
     color: #283c44;
 }
 .tittle-text{
-    font-size: 100px;
+    font-size: 90px;
     color: #F7746D;
+}
+#front-line{
+    border-left: 5px solid #F7746D;
+    padding: 5px;
+    border-radius: 5px;
+    
 }
 .flexible-container{
     display: flex;
@@ -121,4 +127,9 @@ body{
     background-image: url(background/footer-bg.png);
     color: lightgray;
     padding: 2px;
+}
+
+.love{
+    border-left: 10px solid;
+    text-align: cender;
 }

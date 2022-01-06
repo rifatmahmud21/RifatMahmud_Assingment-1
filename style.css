@@ -99,3 +99,26 @@ body{
     background-size: 100%;
     color: ivory;
 }
+#logo{
+    display: block;
+    margin: auto;
+    width: 500px;
+    padding: 100px;
+    background-image: url(background/dot.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+    
+}
+#bottom-text{
+    text-align: center;
+    font-size: 50px;
+}
+.footer{
+    text-align: center;
+}
+#footer-section{
+    background-image: url(background/footer-bg.png);
+    color: lightgray;
+    padding: 2px;
+}

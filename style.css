@@ -11,6 +11,7 @@ body{
 
 .up-tittle-text{
     font-size: 50px;
+    color: #283c44;
 }
 .tittle-text{
     font-size: 100px;
@@ -24,7 +25,7 @@ body{
     padding: 50px 150px;
 }
 .half-width img{
-    width: 95%;
+    width: 100%;
 }
 .button{
     text-decoration: none;
@@ -32,7 +33,7 @@ body{
     padding: 10px 40px;
     background-color: #F7746D;
     color: aliceblue;
-    border-radius: 10px;
+    border-radius: 15px;
     background-image: linear-gradient( #fdd8a1, #F7746D);
 }
 #section-1{
@@ -43,9 +44,13 @@ body{
 
 #section-2-tittle{
     font-size: 70px;
+    color: #283c44;
     text-align: center;
 }
 #year-color{
+    color: #F7746D;
+}
+.box-tittle{
     color: #F7746D;
 }
 .box{
@@ -54,7 +59,7 @@ body{
     padding: 30px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 .box img{
     margin-left: auto;
@@ -66,4 +71,13 @@ body{
 }
 #color-2{
     background-color: #f5ffde;
+}
+#section-3-image{
+    padding: 80px 0 0 0;
+}
+#section-3{
+    background-image: url(background/bg\ 3.png);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: right;
 }
